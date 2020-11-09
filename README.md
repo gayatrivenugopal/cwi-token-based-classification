@@ -1,2 +1,2 @@
 # cwi-token-based-classification
-CWI as a Token Labelling Task
+Treating Complex Word Identification as a Token Labelling Task
